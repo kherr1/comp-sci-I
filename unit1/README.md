@@ -5,4 +5,4 @@
 * Computational Algorithms
 * Strings & String Operations
 * Lists
-* For Loops
+* `for` Loops
